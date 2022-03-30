@@ -1,4 +1,4 @@
-Hi,waveI'm Sachin Tripathi
+Hi, wave I'm Sachin Tripathi
 
 telescope I’m currently working on ReactJS
 
